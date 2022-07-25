@@ -14,7 +14,7 @@ using pandas and jupyter notebooks
 
 
 ![District Results](/Results/whole-district-old.PNG)
-![District Results after removals](/Results/whole-district.PNG.png)
+![District Results after removals](/Results/whole-district.PNG)
 
  - School Summary metrics are, of course, unchanged for all other schools. For Thomas High School, four of the metrics went down very slightly, while the average reading score actually increased a little.
 

@@ -13,8 +13,8 @@ using pandas and jupyter notebooks
  - All District Summary metrics decreased slightly, at the edge of visibility with the requested truncation. This is expected behaviour, regardless of potential cheating. Since this school performs far above the distric average, removing a random collection of Thomas High School students from the disctric pool would have this effect.
 
 
-![District Results](/results/whole-district-old.PNG)
-![District Results after removals](/resources/whole-district.PNG.png)
+![District Results](/Results/whole-district-old.PNG)
+![District Results after removals](/Results/whole-district.PNG.png)
 
  - School Summary metrics are, of course, unchanged for all other schools. For Thomas High School, four of the metrics went down very slightly, while the average reading score actually increased a little.
 
